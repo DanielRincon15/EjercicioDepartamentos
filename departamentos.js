@@ -1,8 +1,8 @@
 const departamento =() => {
 
-let nombreDepartamento = prompt ("Ingrese el departamento");
+let depar = prompt ("Ingrese el departamento");
 
-switch (nombreDepartamento) {
+switch (departamento) {
 
     case "Amazonas":
         alert("Su capital es: Leticia");
